@@ -1,1 +1,9 @@
-{"name":"@portal-solutions/agents-sdk","workspaces":[],"devDependencies":{"typescript":"^5.9.3","zshy":"^0.6.0"}}
+{
+    "name": "@portal-solutions/agents-sdk",
+    "workspaces": [],
+    "devDependencies": {
+        "typescript": "^5.9.3",
+        "zshy": "^0.6.0"
+    },
+    "description": "SDK for specialized, semi-specialized, or generic AI agents"
+}
