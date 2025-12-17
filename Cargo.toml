@@ -1,0 +1,12 @@
+[workspace]
+members=[]
+resolver="3"
+
+[workspace.package]
+version = "0.1.0"
+description = "SDK for specialized, semi-specialized, or generic AI agents"
+repository = "https://github.com/portal-co/agent-sdk.git"
+license = "MPL-2.0"
+
+[workspace.dependencies]
+
